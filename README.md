@@ -1,51 +1,122 @@
 <div align="center">
 
-<sub>Hello Visitor, and I'm</sub>
+# M O D I T H Y A &nbsp;R
 
-# M O D I T H Y A
+**Building AI systems and full-stack products, one commit at a time.**
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-modithya.vercel.app-2ea44f?style=flat-square)](https://modithya.vercel.app)
+[![Email](https://img.shields.io/badge/Email-modithya.ranganath%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:modithya.ranganath@gmail.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-100%2B%20solved-orange?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com)
 <img src="https://komarev.com/ghpvc/?username=Modithya&label=Profile+Views&base=226&color=blue&style=flat-square" alt="Profile Views" />
 
-<a href="https://modithya.vercel.app"><img src="https://img.shields.io/badge/Portfolio-modithya.vercel.app-2ea44f?style=flat-square" alt="Portfolio" /></a>
-<a href="mailto:modithya.ranganath@gmail.com"><img src="https://img.shields.io/badge/Email-modithya.ranganath%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
-
-*Computer Science student building AI and full-stack systems for real-world problems.*
+[**Portfolio**](https://modithya.vercel.app) • [**Duality-AI Project**](https://github.com) • [**AssetIQ Project**](https://github.com)
 
 </div>
 
 ---
 
-### Things I've Built
+## About Me
 
-- **Duality-AI: Space Station Safety Object Detection** — YOLOv8m model trained on Duality AI's Falcon synthetic dataset, achieving 84.3% mAP@0.5 and 90.47% precision across 7 safety-critical equipment classes (Python, Ultralytics)
-- **AssetIQ: Industrial Knowledge Platform** — AI-powered platform turning industrial documents into a searchable knowledge base with a Neo4j knowledge graph pipeline (Docker, FastAPI, React, Groq API)
-- **HoloCrypt: Authentication System** — Full-stack auth system with protected routes, session management, and login attempt-limiting (React.js, React Router, Supabase, Vite)
+I'm a Computer Science student at **Siddaganga Institute of Technology** (CGPA: 8.2), building projects at the intersection of **AI/ML, full-stack development, and applied engineering**.
 
----
-
-### Achievements
-
-- 🏆 Winner, SkyHack 2.0 — Duality AI Falcon Synthetic Data Challenge
-- 💻 Solved 100+ problems on LeetCode
+My focus is on shipping practical systems — from computer vision models that detect safety equipment in real time, to AI-powered platforms that turn dense industrial documents into searchable knowledge — while staying comfortable across the full stack.
 
 ---
 
-Team Member / Anchor at **Quest**, my college's elite student organization — helped run Placement IQ and QTS (Quest Test Series), bridging academics and professional readiness for 100+ students.
+## 🚀 Featured Project
 
-Currently pursuing a B.E. in Computer Science at Siddaganga Institute of Technology (CGPA: 8.2).
+### Duality-AI: Space Station Safety Object Detection
+
+**A YOLOv8 model trained to spot safety-critical equipment in a simulated space station.**
+
+Built for **SkyHack 2.0 — Duality AI Falcon Synthetic Data Challenge**, which this project won. Trained on Duality AI's Falcon synthetic dataset to identify 7 safety-critical equipment classes, tuned for small, low-light object detection under class imbalance.
+
+**84.3% mAP@0.5 · 90.47% precision · 7 detection classes**
+
+**Key details:**
+- 🎯 **YOLOv8m** backbone, fine-tuned on synthetic space station imagery
+- ⚙️ **AdamW optimizer** with cosine learning-rate scheduling
+- 🖼️ **Augmentation strategy** — mosaic, copy-paste, HSV jitter — to handle class imbalance
+- 🏆 **Competition winner** — SkyHack 2.0, Duality AI Falcon Challenge
+
+[**View Project →**](https://github.com)
 
 ---
 
-### Skills
+## 🛠️ Other Projects
+
+### AssetIQ — Industrial Knowledge Platform
+*Docker · Neo4j · Groq API · FastAPI · React — built for ET AI Hackathon 2.0*
+
+An AI-powered platform that processes industrial documents (manuals, P&IDs, inspection reports, maintenance records) into a searchable knowledge base for plant operations teams. Uses a Neo4j knowledge graph pipeline to extract and visualize entities and relationships, wrapped in a containerized architecture connecting React, FastAPI, and Groq-powered LLM inference.
+
+[**View Project →**](https://github.com)
+
+### HoloCrypt — Authentication System
+*React.js · React Router · Supabase · Vite — built for Repogenesis, IEEE Computer Society*
+
+A full-stack authentication system with protected routes, session management, and login attempt-limiting (max 3 attempts) to prevent brute-force access. Modular architecture with a dedicated auth context, route-protection wrapper, and environment-based credential management.
+
+[**View Project →**](https://github.com)
+
+---
+
+## 💡 How I Work
+
+### Ship Practical Systems
+I care about models and platforms that solve a real, specific problem — not just benchmark scores.
+
+### Full-Stack Comfort
+From training detection models to building the React + FastAPI app around them, I work across the whole pipeline.
+
+### Learn By Building
+Most of what's here started as a hackathon or challenge — SkyHack 2.0, ET AI Hackathon 2.0, Repogenesis (IEEE).
+
+### Community Involvement
+Active member of **Quest**, my college's elite student organization, helping run placement-readiness events for 100+ students.
+
+---
+
+## 📊 By The Numbers
+
+- **84.3%** mAP@0.5 on the Duality-AI space station detection model
+- **7** safety-critical equipment classes detected
+- **100+** DSA problems solved on LeetCode
+- **100+** students supported through Quest's placement-readiness events
+- **1** hackathon won — SkyHack 2.0 (Duality AI Falcon Challenge)
+
+---
+
+## 🧰 Skills
 
 **Languages:** C, C++, JavaScript, Python, Java
 **Web Development:** React.js, Node.js, FastAPI, Next.js, MongoDB, SQL, CSS
 **Developer Tools:** Docker, Git, GitHub, Anaconda, Firebase
 **Core Concepts:** AI and Machine Learning Algorithms
+**Coursework:** Advanced Data Structures and Algorithms, Operating Systems, OOPS
+
+---
+
+## 🎓 Education
+
+**Siddaganga Institute of Technology**
+Bachelor of Engineering in Computer Science · Sep. 2024 – May 2028 · CGPA: 8.2
+
+---
+
+## 📬 Contact
+
+- **Portfolio**: [modithya.vercel.app](https://modithya.vercel.app)
+- **Email**: [modithya.ranganath@gmail.com](mailto:modithya.ranganath@gmail.com)
+- **Phone**: +91 9980584678
 
 ---
 
 <div align="center">
+
+**Built by a student who ships.**
+
+[**Portfolio**](https://modithya.vercel.app) • [**Email**](mailto:modithya.ranganath@gmail.com)
 
 git commit -m "shipping features, one commit at a time"
 
