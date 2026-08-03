@@ -4,12 +4,11 @@
 
 **Building AI systems and full-stack products, one commit at a time.**
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-modithya.vercel.app-2ea44f?style=flat-square)](https://modithya.vercel.app)
 [![Email](https://img.shields.io/badge/Email-modithya.ranganath%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:modithya.ranganath@gmail.com)
 [![LeetCode](https://img.shields.io/badge/LeetCode-100%2B%20solved-orange?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com)
 <img src="https://komarev.com/ghpvc/?username=Modithya&label=Profile+Views&base=226&color=blue&style=flat-square" alt="Profile Views" />
 
-[**Portfolio**](https://modithya.vercel.app) • [**Duality-AI Project**](https://github.com) • [**AssetIQ Project**](https://github.com)
+[**Duality-AI Project**](https://github.com) • [**AssetIQ Project**](https://github.com)
 
 </div>
 
@@ -89,11 +88,24 @@ Active member of **Quest**, my college's elite student organization, helping run
 
 ## 🧰 Skills
 
-**Languages:** C, C++, JavaScript, Python, Java
-**Web Development:** React.js, Node.js, FastAPI, Next.js, MongoDB, SQL, CSS
-**Developer Tools:** Docker, Git, GitHub, Anaconda, Firebase
-**Core Concepts:** AI and Machine Learning Algorithms
-**Coursework:** Advanced Data Structures and Algorithms, Operating Systems, OOPS
+- C
+- C++
+- JavaScript
+- Python
+- Java
+- React.js
+- Node.js
+- FastAPI
+- Next.js
+- MongoDB
+- SQL
+- CSS
+- Docker
+- Git
+- GitHub
+- Anaconda
+- Firebase
+- AI and Machine Learning Algorithms
 
 ---
 
@@ -106,7 +118,6 @@ Bachelor of Engineering in Computer Science · Sep. 2024 – May 2028 · CGPA: 8
 
 ## 📬 Contact
 
-- **Portfolio**: [modithya.vercel.app](https://modithya.vercel.app)
 - **Email**: [modithya.ranganath@gmail.com](mailto:modithya.ranganath@gmail.com)
 - **Phone**: +91 9980584678
 
@@ -116,7 +127,7 @@ Bachelor of Engineering in Computer Science · Sep. 2024 – May 2028 · CGPA: 8
 
 **Built by a student who ships.**
 
-[**Portfolio**](https://modithya.vercel.app) • [**Email**](mailto:modithya.ranganath@gmail.com)
+[**Email**](mailto:modithya.ranganath@gmail.com)
 
 git commit -m "shipping features, one commit at a time"
 
