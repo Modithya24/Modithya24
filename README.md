@@ -88,36 +88,15 @@ Active member of **Quest**, my college's elite student organization, helping run
 
 ## 🧰 Skills
 
-**Languages:**
-- C
-- C++
-- JavaScript
-- Python
-- Java
+**Languages:** C • C++ • JavaScript • Python • Java
 
-**Web Development:**
-- React.js
-- Node.js
-- FastAPI
-- Next.js
-- MongoDB
-- SQL
-- CSS
+**Web Development:** React.js • Next.js • Node.js • FastAPI • MongoDB • SQL • CSS
 
-**Developer Tools:**
-- Docker
-- Git
-- GitHub
-- Anaconda
-- Firebase
+**Developer Tools:** Git • GitHub • Docker • Firebase • Anaconda
 
-**Core Concepts:**
-- AI and Machine Learning Algorithms
+**Core Concepts:** AI & Machine Learning • Data Structures & Algorithms • OOP
 
-**Coursework:**
-- Advanced Data Structures and Algorithms
-- Operating Systems
-- OOPS
+**Coursework:** Advanced Data Structures & Algorithms • Operating Systems • Object-Oriented Programming
 
 ---
 
