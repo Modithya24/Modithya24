@@ -2,64 +2,31 @@
 
 # M O D I T H Y A &nbsp;R
 
-**AI/ML • Full Stack Developer • Computer Science Student**
+**Building AI systems and full-stack products.**
 
 [![Email](https://img.shields.io/badge/Email-modithya.ranganath%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:modithya.ranganath@gmail.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-100%2B%20Solved-orange?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com)
-<img src="https://komarev.com/ghpvc/?username=Modithya&label=Profile+Views&color=blue&style=flat-square" />
-
-[Portfolio](https://modithya.vercel.app) •
-[Duality-AI](https://github.com/Modithya24/Duality-AI) •
-[AssetIQ](https://github.com/Modithya24/ET)
+[![LeetCode](https://img.shields.io/badge/LeetCode-100%2B%20solved-orange?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com)
 
 </div>
 
 ---
 
-## About Me
+## 🚀 Projects
 
-Computer Science student at **Siddaganga Institute of Technology** passionate about **AI/ML**, **Computer Vision**, and **Full Stack Development**. I enjoy building practical applications that solve real-world problems.
-
----
-
-## Featured Projects
-
-### Duality-AI
-Winner of **SkyHack 2.0**. Built a **YOLOv8** safety object detection model for space stations.
-
-**84.3% mAP@0.5 • 90.47% Precision • 7 Classes**
-
-### AssetIQ
-AI-powered industrial knowledge platform using **React, FastAPI, Neo4j, Docker, and Groq API**.
-
-### HoloCrypt
-Authentication system with **React, Supabase, and protected routing**.
+- **[Duality-AI](https://github.com/Modithya24/Duality-AI)** — YOLOv8 safety object detection, 84.3% mAP@0.5. 🏆 SkyHack 2.0 winner
+- **[AssetIQ](https://github.com/Modithya24/ET)** — AI knowledge platform for industrial documents (Neo4j, FastAPI, React)
+- **[HoloCrypt](https://github.com/Modithya24/IEEE-banglore)** — Full-stack auth system with Supabase (React, Vite)
 
 ---
 
-## Skills
+## 🧰 Skills
 
-**Languages:** C • C++ • Python • Java • JavaScript
-
-**Tech Stack:** React • Next.js • Node.js • FastAPI • MongoDB • SQL • Docker • Git • Firebase
-
-**Core:** AI/ML • Computer Vision • DSA • OOP
+**Languages:** C, C++, JavaScript, Python, Java
+**Web Development:** React.js, Node.js, FastAPI, Next.js, MongoDB, SQL, CSS
+**Tools:** Docker, Git, GitHub, Anaconda, Firebase
 
 ---
 
-## Education
+## 📬 Contact
 
-**B.E. Computer Science**  
-Siddaganga Institute of Technology (2024–2028)
-
----
-
-## Contact
-
-📧 **modithya.ranganath@gmail.com**
-
-<div align="center">
-
-**"Building. Learning. Improving."**
-
-</div>
+[modithya.ranganath@gmail.com](mailto:modithya.ranganath@gmail.com) · +91 9980584678
