@@ -8,7 +8,7 @@
 [![LeetCode](https://img.shields.io/badge/LeetCode-100%2B%20solved-orange?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com)
 <img src="https://komarev.com/ghpvc/?username=Modithya&label=Profile+Views&base=226&color=blue&style=flat-square" alt="Profile Views" />
 
-[**Duality-AI Project**](https://github.com) • [**AssetIQ Project**](https://github.com)
+[**Duality-AI Project**](https://github.com/Modithya24/Duality-AI) • [**AssetIQ Project**](https://github.com/Modithya24/ET)
 
 </div>
 
@@ -38,7 +38,7 @@ Built for **SkyHack 2.0 — Duality AI Falcon Synthetic Data Challenge**, which 
 - 🖼️ **Augmentation strategy** — mosaic, copy-paste, HSV jitter — to handle class imbalance
 - 🏆 **Competition winner** — SkyHack 2.0, Duality AI Falcon Challenge
 
-[**View Project →**](https://github.com)
+[**View Project →**](https://github.com/Modithya24/Duality-AI)
 
 ---
 
@@ -49,14 +49,14 @@ Built for **SkyHack 2.0 — Duality AI Falcon Synthetic Data Challenge**, which 
 
 An AI-powered platform that processes industrial documents (manuals, P&IDs, inspection reports, maintenance records) into a searchable knowledge base for plant operations teams. Uses a Neo4j knowledge graph pipeline to extract and visualize entities and relationships, wrapped in a containerized architecture connecting React, FastAPI, and Groq-powered LLM inference.
 
-[**View Project →**](https://github.com)
+[**View Project →**](https://github.com/Modithya24/ET)
 
 ### HoloCrypt — Authentication System
 *React.js · React Router · Supabase · Vite — built for Repogenesis, IEEE Computer Society*
 
 A full-stack authentication system with protected routes, session management, and login attempt-limiting (max 3 attempts) to prevent brute-force access. Modular architecture with a dedicated auth context, route-protection wrapper, and environment-based credential management.
 
-[**View Project →**](https://github.com)
+[**View Project →**](https://github.com/Modithya24/IEEE-banglore)
 
 ---
 
