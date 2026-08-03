@@ -16,7 +16,7 @@
 
 ## About Me
 
-I'm a Computer Science student at **Siddaganga Institute of Technology** (CGPA: 8.2), building projects at the intersection of **AI/ML, full-stack development, and applied engineering**.
+I'm a Computer Science student at **Siddaganga Institute of Technology**, building projects at the intersection of **AI/ML, full-stack development, and applied engineering**.
 
 My focus is on shipping practical systems — from computer vision models that detect safety equipment in real time, to AI-powered platforms that turn dense industrial documents into searchable knowledge — while staying comfortable across the full stack.
 
@@ -112,7 +112,7 @@ Active member of **Quest**, my college's elite student organization, helping run
 ## 🎓 Education
 
 **Siddaganga Institute of Technology**
-Bachelor of Engineering in Computer Science · Sep. 2024 – May 2028 · CGPA: 8.2
+Bachelor of Engineering in Computer Science · Sep. 2024 – May 2028
 
 ---
 
